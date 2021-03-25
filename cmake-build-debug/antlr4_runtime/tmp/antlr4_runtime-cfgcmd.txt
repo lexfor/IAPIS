@@ -1,0 +1,1 @@
+cmd='/snap/clion/145/bin/cmake/linux/bin/cmake;-GCodeBlocks - Unix Makefiles;-C<TMP_DIR>/antlr4_runtime-cache-$<CONFIG>.cmake;<SOURCE_DIR><SOURCE_SUBDIR>'

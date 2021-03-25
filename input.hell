@@ -1,0 +1,15 @@
+INT a = -9;
+INT b = 10;
+INT c = 0;
+Long d = 1333;
+Long v = 1444;
+Long t = 0;
+t = d + v;
+c = -9 + b;
+For(a,a < 20, -1){
+    b += 1;
+}
+If(a > 10){
+    a ^= 3;
+}
+c = a + b;

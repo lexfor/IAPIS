@@ -1,0 +1,6 @@
+/home/tima/lang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tima/lang/cmake-build-debug/CMakeFiles/antlr4_runtime.dir
+/home/tima/lang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tima/lang/cmake-build-debug/CMakeFiles/antlr4_runtime-build_static.dir
+/home/tima/lang/cmake-build-debug/CMakeFiles/antlr4_runtime-build_shared.dir
+/home/tima/lang/cmake-build-debug/CMakeFiles/lang.dir

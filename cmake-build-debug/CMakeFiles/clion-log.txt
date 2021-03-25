@@ -1,0 +1,10 @@
+/snap/clion/145/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tima/lang
+/home/tima/lang/HelloLexer.g4
+/home/tima/lang/HelloParser.g4
+/home/tima/lang
+/home/tima/lang
+/home/tima/lang/HelloLexer.h/home/tima/lang/HelloLexer.cpp
+/home/tima/lang/HelloParser.h/home/tima/lang/HelloParser.cpp/home/tima/lang/HelloParserBaseVisitor.h/home/tima/lang/HelloParserBaseVisitor.cpp/home/tima/lang/HelloParserVisitor.h/home/tima/lang/HelloParserVisitor.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tima/lang/cmake-build-debug
